@@ -20,7 +20,7 @@ I love solving real-world problems through clean code, automation, and smart int
 - Secure authentication using `password_hash()` & `password_verify()`  
 - REST API development and backend routing  
 - MySQL / MariaDB query optimization  
-- Session handling and access control  
+- python, using flask frmae work  
 
 ---
 
@@ -42,15 +42,18 @@ I love solving real-world problems through clean code, automation, and smart int
 - PHP-powered dashboards with Bootstrap UI  
 - Vehicle tracking & wallet systems  
 - Data validation and sanitization  
-- Dynamic JavaScript modals and Fetch API integration  
+- Dynamic JavaScript modals and Fetch API integration
+- todo list uisng flask 
 
 ---
 
 ### 🧰 Frontend Integration  
-- Dynamic DOM manipulation and event bubbling  
-- Asynchronous form submissions using `fetch()`  
+- Dynamic DOM manipulation and fetch api usage 
+- full scale user dashboard `  
 - File uploads with FileReader API  
-- Clean UI using Bootstrap components  
+- Clean UI using Bootstrap components
+- using tail wind
+  
 
 ---
 
