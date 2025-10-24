@@ -86,7 +86,7 @@ I love solving real-world problems through clean code, automation, and smart int
 
 ## 🛠️ Currently Exploring  
 - Laravel Middleware & API Resources  
-- JavaScript ES6+ modules and dynamic UIs  
+- python chatbot using flask  
 - AI integration in web systems  
 
 ---
