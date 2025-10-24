@@ -89,7 +89,7 @@ I love solving real-world problems through clean code, automation, and smart int
 ---
 
 ## 🌐 Connect with Me  
-📧 **Email:** marvellous@example.com  
+📧 **Email:** osemekemrvlls@gmail.com 
 💼 **LinkedIn:** [linkedin.com/in/osemeke-marvellous](#)  
 🧰 **GitHub:** [github.com/osemeke-marvellous](https://github.com/o-marvel)  
 
